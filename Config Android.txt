@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/18723755/android-studio-how-to-increase-allocated-heap-size
